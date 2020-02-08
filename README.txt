@@ -1,6 +1,6 @@
 
 
-You wake up in an office! You are hungry and looking for some 
+You wake up in an office! You are hungry and looking for some    
 TiTap! The manager has some, hidden somewhere!
 
 You are a TiTap Warrior and your task is finding that little piece of cake - although this task is not a piece of cake! 
